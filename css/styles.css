@@ -2,7 +2,12 @@ body {
   background-image: url("../img/alki.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-
+}
+.jumbotron {
+  background-image: url("../img/grass.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 }
 
