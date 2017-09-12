@@ -1,7 +1,19 @@
+body {
+  background-image: url("../img/alki.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
 h1 {
   color: #ff44ee;
+  font-size: 56px;
+  text-align: center;
 }
 
 img {
   border:2px solid black;
+  display: block;
+  margin: auto;
 }
